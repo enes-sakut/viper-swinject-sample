@@ -1,0 +1,42 @@
+PODS:
+  - AFDateHelper (4.2.7)
+  - Alamofire (4.8.2)
+  - Bolts-Swift (1.5.0)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - Swinject (2.7.1)
+
+DEPENDENCIES:
+  - AFDateHelper (~> 4.2.2)
+  - Alamofire (~> 4.8.2)
+  - Bolts-Swift (from `https://github.com/BoltsFramework/Bolts-Swift.git`)
+  - SDWebImage (~> 5.0)
+  - Swinject (~> 2.7.1)
+
+SPEC REPOS:
+  trunk:
+    - AFDateHelper
+    - Alamofire
+    - SDWebImage
+    - Swinject
+
+EXTERNAL SOURCES:
+  Bolts-Swift:
+    :git: https://github.com/BoltsFramework/Bolts-Swift.git
+
+CHECKOUT OPTIONS:
+  Bolts-Swift:
+    :commit: 24fcb2d57a1df5c4ab8a48a925213b2c0b68dc78
+    :git: https://github.com/BoltsFramework/Bolts-Swift.git
+
+SPEC CHECKSUMS:
+  AFDateHelper: 4ad66fb19503041fbba8a3018cb7ef9c71b2ff88
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Bolts-Swift: afbbaf8c8186e7f769be4afa656949c14087ba44
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+
+PODFILE CHECKSUM: 6dd151334a9d3b10851cb8b423bf6db522917059
+
+COCOAPODS: 1.8.4

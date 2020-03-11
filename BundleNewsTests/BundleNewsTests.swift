@@ -12,7 +12,7 @@ import XCTest
 class BundleNewsTests: XCTestCase {
 
     override func setUp() {
-        // Put setup code here. This method is called before the invocation of each test method in the class.
+      
     }
 
     override func tearDown() {
@@ -30,5 +30,6 @@ class BundleNewsTests: XCTestCase {
             // Put the code you want to measure the time of here.
         }
     }
-
+    
+   
 }
