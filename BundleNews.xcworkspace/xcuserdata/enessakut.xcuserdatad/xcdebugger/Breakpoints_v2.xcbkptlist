@@ -386,14 +386,14 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "6210509F-0C58-4427-BCAE-B54AACA0879A - c698f3c79c35b07"
+                  uuid = "6210509F-0C58-4427-BCAE-B54AACA0879A - e2f7800447c94f0"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "BundleNews.ProductDetailPresenterImpl.presentViewType() -&gt; ()"
                   moduleName = "BundleNews"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/enessakut/Desktop/BundleNews/BundleNews/BundleNews/Scenes/ProductDetail/ProductDetailPresenter.swift"
+                  urlString = "file:///Users/enessakut/Desktop/githuhb/BundleNews/Scenes/ProductDetail/ProductDetailPresenter.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "23"
@@ -401,14 +401,14 @@
                   offsetFromSymbolStart = "69">
                </Location>
                <Location
-                  uuid = "6210509F-0C58-4427-BCAE-B54AACA0879A - 2f4e693437714dfa"
+                  uuid = "6210509F-0C58-4427-BCAE-B54AACA0879A - 2d089e080ace820d"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 () -&gt; BundleNews.ProductDetails.InitUI.ViewModel in BundleNews.ProductDetailPresenterImpl.presentViewType() -&gt; ()"
                   moduleName = "BundleNews"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/enessakut/Desktop/BundleNews/BundleNews/BundleNews/Scenes/ProductDetail/ProductDetailPresenter.swift"
+                  urlString = "file:///Users/enessakut/Desktop/githuhb/BundleNews/Scenes/ProductDetail/ProductDetailPresenter.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "24"

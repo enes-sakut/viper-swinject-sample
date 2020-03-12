@@ -48,7 +48,6 @@
 		AC0ADC1A23FE738000CEEAFF /* ProductDetailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0ADC1923FE738000CEEAFF /* ProductDetailModel.swift */; };
 		AC0ADC1C23FE746200CEEAFF /* UIViewController+ Title.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0ADC1B23FE746200CEEAFF /* UIViewController+ Title.swift */; };
 		AC0ADC1E23FE757700CEEAFF /* UIColor+BundleColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0ADC1D23FE757700CEEAFF /* UIColor+BundleColors.swift */; };
-		AC0ADC2123FE776600CEEAFF /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC0ADC2023FE776600CEEAFF /* Roboto-Regular.ttf */; };
 		AC0ADC2423FE7B5900CEEAFF /* ProductDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0ADC2223FE7B5900CEEAFF /* ProductDetailViewController.swift */; };
 		AC0ADC2523FE7B5900CEEAFF /* ProductDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC0ADC2323FE7B5900CEEAFF /* ProductDetailViewController.xib */; };
 		AC0ADC2B23FEA01800CEEAFF /* ProductDetailAssembly.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0ADC2A23FEA01800CEEAFF /* ProductDetailAssembly.swift */; };
@@ -58,6 +57,7 @@
 		AC0ADC3523FFF79200CEEAFF /* LaunchScreenExtensionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0ADC3323FFF79200CEEAFF /* LaunchScreenExtensionViewController.swift */; };
 		AC0ADC3623FFF79200CEEAFF /* LaunchScreenExtensionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC0ADC3423FFF79200CEEAFF /* LaunchScreenExtensionViewController.xib */; };
 		AC0ADC3A23FFFEED00CEEAFF /* ProductDetailRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0ADC3923FFFEED00CEEAFF /* ProductDetailRouter.swift */; };
+		AC84B27F241A608B002BDEC7 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC84B27E241A608B002BDEC7 /* Roboto-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -127,7 +127,6 @@
 		AC0ADC1923FE738000CEEAFF /* ProductDetailModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailModel.swift; sourceTree = "<group>"; };
 		AC0ADC1B23FE746200CEEAFF /* UIViewController+ Title.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+ Title.swift"; sourceTree = "<group>"; };
 		AC0ADC1D23FE757700CEEAFF /* UIColor+BundleColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+BundleColors.swift"; sourceTree = "<group>"; };
-		AC0ADC2023FE776600CEEAFF /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Regular.ttf"; path = "../../../Roboto-Regular.ttf"; sourceTree = "<group>"; };
 		AC0ADC2223FE7B5900CEEAFF /* ProductDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailViewController.swift; sourceTree = "<group>"; };
 		AC0ADC2323FE7B5900CEEAFF /* ProductDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProductDetailViewController.xib; sourceTree = "<group>"; };
 		AC0ADC2A23FEA01800CEEAFF /* ProductDetailAssembly.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailAssembly.swift; sourceTree = "<group>"; };
@@ -137,6 +136,7 @@
 		AC0ADC3323FFF79200CEEAFF /* LaunchScreenExtensionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchScreenExtensionViewController.swift; sourceTree = "<group>"; };
 		AC0ADC3423FFF79200CEEAFF /* LaunchScreenExtensionViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LaunchScreenExtensionViewController.xib; sourceTree = "<group>"; };
 		AC0ADC3923FFFEED00CEEAFF /* ProductDetailRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailRouter.swift; sourceTree = "<group>"; };
+		AC84B27E241A608B002BDEC7 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -386,7 +386,7 @@
 		AC0ADC1F23FE772C00CEEAFF /* Recources */ = {
 			isa = PBXGroup;
 			children = (
-				AC0ADC2023FE776600CEEAFF /* Roboto-Regular.ttf */,
+				AC84B27E241A608B002BDEC7 /* Roboto-Regular.ttf */,
 			);
 			path = Recources;
 			sourceTree = "<group>";
@@ -537,8 +537,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC0ADB6C23F6B56B00CEEAFF /* LaunchScreen.storyboard in Resources */,
-				AC0ADC2123FE776600CEEAFF /* Roboto-Regular.ttf in Resources */,
 				AC0ADBE123F87A5F00CEEAFF /* MainLoadingTableViewCell.xib in Resources */,
+				AC84B27F241A608B002BDEC7 /* Roboto-Regular.ttf in Resources */,
 				AC0ADB6923F6B56B00CEEAFF /* Assets.xcassets in Resources */,
 				AC0ADC3623FFF79200CEEAFF /* LaunchScreenExtensionViewController.xib in Resources */,
 				AC0ADC2523FE7B5900CEEAFF /* ProductDetailViewController.xib in Resources */,
