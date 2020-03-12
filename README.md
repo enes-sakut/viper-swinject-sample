@@ -1,6 +1,6 @@
 # VIPER with Swinject DI Xcode templates
 
-![VIPER with Swinject DI](https://github.com/enes-sakut/viper-swinject-sample/blob/master/swift.jpeg)
+![](https://gfycat.com/oilydifficultbarbet)
 
 
 VIPER iOS app template written in swift 5
