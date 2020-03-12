@@ -1,6 +1,5 @@
 # VIPER with Swinject DI Xcode templates
 
-![image](https://gfycat.com/niftyweakinexpectatumpleco)
 
 VIPER iOS app template written in swift 5
 
